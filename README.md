@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tevli
-- 👀 I’m interested in PHP, Golang and other interesting languages/projects.
-- 🌱 I’m currently perfecting my algorithms skillup.
+- 👀 I primarily work with Typescript, PHP, and Golang.
+- 🌱 I’m reading up about databases, and LLMs.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me precious@tev.li
 
