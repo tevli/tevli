@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tevli
 - 👀 I primarily work with Typescript, PHP.
-- 🌱 I’m reading up about databases, and LLMs.
+- 🌱 I’m reading up about databases, Type theory and DSLs.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me iwuohaprecious4@gmail.com
 
